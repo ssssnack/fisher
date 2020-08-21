@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 flask = "*"
 requests = "*"
+wtforms = "*"
+mongoengine = "*"
 
 [requires]
 python_version = "3.8"
